@@ -7,6 +7,7 @@ public class Employee {
     public static final int Employ_Rate_Per_hr = 20 ;
 
     public static void main(String[] args) {
+        System.out.println("welcome to employee wage computation");
 
         int employ_Hr = 0;
         int employ_wage = 0;
@@ -28,6 +29,5 @@ public class Employee {
     }
 
 }
-
 
 
